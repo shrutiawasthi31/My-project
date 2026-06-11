@@ -1,0 +1,9 @@
+{
+  "name": "lexreason-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "LexReason marketing site",
+  "scripts": {
+    "test": "node scripts/validate.mjs"
+  }
+}
